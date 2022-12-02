@@ -1,7 +1,4 @@
 ### 
-**Быстро обучаюсь новым инструментам и технологиям.**
-
-**Интересна продуктовая аналитика, визуализация данных,построение дашбордов в BI-инструментах**
 <!--
 **Gaisenova/Gaisenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
